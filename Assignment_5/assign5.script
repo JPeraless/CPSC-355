@@ -1,0 +1,171 @@
+Script started
+
+~/CPSC355/A5$ ./assign5
+Enter the size of the table (0-9): 4
+
+2	3	7	8	
+3	8	1	6	
+8	9	2	3	
+0	5	2	4	
+
+Enter a digit to look for (-1 to quit): 2
+
+Digit 2 occurrences:
+1. In (0, 0)
+2. In (2, 2)
+3. In (3, 2)
+Digit 2 occurs 3 times
+
+Enter a digit to look for (-1 to quit): 3
+
+Digit 3 occurrences:
+1. In (0, 1)
+2. In (1, 0)
+3. In (2, 3)
+Digit 3 occurs 3 times
+
+Enter a digit to look for (-1 to quit): 7
+
+Digit 7 occurrences:
+1. In (0, 2)
+Digit 7 occurs 1 times
+
+Enter a digit to look for (-1 to quit): -1
+
+~/CPSC355/A5$ ./assign5
+Enter the size of the table (0-9): 8
+
+9	0	6	9	5	1	0	4	
+5	0	4	6	0	1	9	9	
+1	7	6	3	2	4	6	0	
+3	6	7	4	3	3	5	2	
+5	1	3	0	5	3	6	0	
+6	0	9	6	2	0	8	3	
+7	4	8	1	1	5	2	4	
+3	1	0	6	4	5	0	9	
+
+Enter a digit to look for (-1 to quit): 0
+
+Digit 0 occurrences:
+1. In (0, 1)
+2. In (0, 6)
+3. In (1, 1)
+4. In (1, 4)
+5. In (2, 7)
+6. In (4, 3)
+7. In (4, 7)
+8. In (5, 1)
+9. In (5, 5)
+10. In (7, 2)
+11. In (7, 6)
+Digit 0 occurs 11 times
+
+Enter a digit to look for (-1 to quit): 15
+
+
+Enter a digit to look for (-1 to quit): -12
+
+
+Enter a digit to look for (-1 to quit): 0 2
+
+Digit 2 occurrences:
+1. In (2, 4)
+2. In (3, 7)
+3. In (5, 4)
+4. In (6, 6)
+Digit 2 occurs 4 times
+
+Enter a digit to look for (-1 to quit): -1
+
+~/CPSC355/A5$ ./assign5
+Enter the size of the table (0-9): 6
+
+2	9	7	0	7	6	
+0	4	3	1	7	7	
+2	1	2	7	2	3	
+8	6	5	5	0	4	
+1	1	0	6	2	4	
+6	4	5	3	6	2	
+
+Enter a digit to look for (-1 to quit): -456
+
+
+Enter a digit to look for (-1 to quit): 78
+
+
+Enter a digit to look for (-1 to quit): 3
+
+Digit 3 occurrences:
+1. In (1, 2)
+2. In (2, 5)
+3. In (5, 3)
+Digit 3 occurs 3 times
+
+Enter a digit to look for (-1 to quit): 4
+
+Digit 4 occurrences:
+1. In (1, 1)
+2. In (3, 5)
+3. In (4, 5)
+4. In (5, 1)
+Digit 4 occurs 4 times
+
+Enter a digit to look for (-1 to quit): 5
+
+Digit 5 occurrences:
+1. In (3, 2)
+2. In (3, 3)
+3. In (5, 2)
+Digit 5 occurs 3 times
+
+Enter a digit to look for (-1 to quit): -1
+
+~/CPSC355/A5$ ./assign5
+Enter the size of the table (0-9): 3
+
+9	0	0	
+2	5	7	
+0	7	4	
+
+Enter a digit to look for (-1 to quit): 9
+
+Digit 9 occurrences:
+1. In (0, 0)
+Digit 9 occurs 1 times
+
+Enter a digit to look for (-1 to quit): 0
+
+Digit 0 occurrences:
+1. In (0, 1)
+2. In (0, 2)
+3. In (2, 0)
+Digit 0 occurs 3 times
+
+Enter a digit to look for (-1 to quit): 3
+
+Digit 3 occurrences:
+Digit 3 occurs 0 times
+
+Enter a digit to look for (-1 to quit): 6
+
+Digit 6 occurrences:
+Digit 6 occurs 0 times
+
+Enter a digit to look for (-1 to quit): 7
+
+Digit 7 occurrences:
+1. In (1, 2)
+2. In (2, 1)
+Digit 7 occurs 2 times
+
+Enter a digit to look for (-1 to quit): 8
+
+Digit 8 occurrences:
+Digit 8 occurs 0 times
+
+Enter a digit to look for (-1 to quit): -1
+
+~/CPSC355/A5$ exit
+exit
+
+Script done
